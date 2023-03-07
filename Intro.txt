@@ -1,0 +1,31 @@
+
+Welcome to the Fallout Vault Availability Tracker!
+The purpose of this program is to help Modders keep track of 
+which Fallout Vaults have appeared in a previous Fallout Title,
+expanded media, or in other Mods
+
+Each Vault has been given various Tags, such as: Canon, Non-Canon,
+Already Modded, Other Canon Property, Fallout Bible and which game,
+if any, they appear in.
+
+When launching, you will be asked to set the range of Vault Numbers
+you wish to search by, starting with the lowest then the highest.
+The Canon number of public Vaults is 122.
+
+Then you will be asked whether you wish to only see Non-Canon and
+unused Vault Numbers. I have included Vaults that have appeared or
+mentioned within the Fallout Bible since I couldn't find a definitive
+location for any of them.
+
+Canon: Vaults that appeared in a previous Canon Fallout Game.
+Non-Canon: Vaults that were considered by Bethesda but got scrapped
+	   for whatever reason, or are part of a Non-Canon Property.
+Other Canon Property: Vaults that have appeared or will appear in
+	   other Fallout Media outside the games.
+Fallout Bible: Vaults that have made an appearance in the Fallout
+	   Bible.
+Already Modded: Vault Numbers that have already been created by
+	   Modders. Haven't been able to find EVERY Vault mod, but
+           I made sure to get the big ones.
+
+Press [Enter to Continue]

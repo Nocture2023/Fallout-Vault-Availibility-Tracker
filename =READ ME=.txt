@@ -1,0 +1,33 @@
+Thank you for Downloading the --= Fallout Vault Availability Tracker =--
+Now all that's left is to install the program itself.
+Firstly, make sure you have Visual Studio installed. Probably won't
+run otherwise.
+
+=============
+INSTALLATION:
+=============
+
+Step 1.) Place 'Vault Number Picker.rar' into C:\
+
+Step 2.) Extract the contents of the compressed file into C:\
+	 Make sure everything is in the 'Vault Number Picker' folder.
+
+Step 3.) Run 'Vault Number Picker.sln'
+
+=============
+How To Use
+=============
+
+Step 1.) After reading the Intro, press [Enter].
+
+Step 2.) Enter the lowest Vault Number in your desired range, then do
+	 the same for the maximum Vault Number.
+
+Step 3.) Choose whether to filter only for Modded/Available Vault
+	 Numbers.
+
+=============
+
+That's about it. Enjoy :D
+
+- Nocture

@@ -1,0 +1,14 @@
+C:\Users\RyanT\source\repos\Vault Number Picker\Vault Number Picker\bin\Debug\Vault Number Picker.exe.config
+C:\Users\RyanT\source\repos\Vault Number Picker\Vault Number Picker\bin\Debug\Vault Number Picker.exe
+C:\Users\RyanT\source\repos\Vault Number Picker\Vault Number Picker\bin\Debug\Vault Number Picker.pdb
+C:\Users\RyanT\source\repos\Vault Number Picker\Vault Number Picker\obj\Debug\Vault Number Picker.csproj.AssemblyReference.cache
+C:\Users\RyanT\source\repos\Vault Number Picker\Vault Number Picker\obj\Debug\Vault Number Picker.csproj.CoreCompileInputs.cache
+C:\Users\RyanT\source\repos\Vault Number Picker\Vault Number Picker\obj\Debug\Vault Number Picker.exe
+C:\Users\RyanT\source\repos\Vault Number Picker\Vault Number Picker\obj\Debug\Vault Number Picker.pdb
+C:\Vault Number Picker\Vault Number Picker\bin\Debug\Vault Number Picker.exe.config
+C:\Vault Number Picker\Vault Number Picker\bin\Debug\Vault Number Picker.exe
+C:\Vault Number Picker\Vault Number Picker\bin\Debug\Vault Number Picker.pdb
+C:\Vault Number Picker\Vault Number Picker\obj\Debug\Vault Number Picker.csproj.AssemblyReference.cache
+C:\Vault Number Picker\Vault Number Picker\obj\Debug\Vault Number Picker.csproj.CoreCompileInputs.cache
+C:\Vault Number Picker\Vault Number Picker\obj\Debug\Vault Number Picker.exe
+C:\Vault Number Picker\Vault Number Picker\obj\Debug\Vault Number Picker.pdb
